@@ -14,7 +14,6 @@ while row_index < src.count do
 end
 min_valueA<<medidor
 row_index += 1
-
 end
 min_valueA
 end
