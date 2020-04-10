@@ -12,8 +12,9 @@ while row_index < src.count do
   end
   element_index += 1
 end
-row_index += 1
 min_valueA<<medidor
+row_index += 1
+
 end
 min_valueA
 end
